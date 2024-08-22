@@ -8,10 +8,6 @@
 `这里是前端代码的仓库哦~`  
 <br/>
 
-后端代码请移步 [高校二手交易平台后端仓库](https://github.com/windsong477/College-Second-hand_springboot)
-<br/>
-
-
 推荐使用Hbuilder部署运行哦~
 
 ## Project setup
